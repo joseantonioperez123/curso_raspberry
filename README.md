@@ -17,3 +17,20 @@ codium === vscode
 
 http://www.arduinoblocks.com/
 
+pip3 install esptool --break-system-packages    --->> formatea el ESP32 conectado por USB a RAspberry pi
+en Tonny instalamos el sistema operativo microPython en ESP32
+
+tinkercad
+microbit
+
+ESP32
+	-- patillas PWM (intensidades 10 bits)
+	-- patillas ADC
+
+
+fritzing -> diseño de circuitos
+
+https://micropython.org/
+
+**SESION2 FIN   24/4/24**
+
